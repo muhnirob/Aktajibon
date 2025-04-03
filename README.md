@@ -1,2 +1,17 @@
 # Aktajibon
-Automating Blogger posts, fast indexing with Google Search Console API, and email automation with Gmail API for Aktajibon blog.
+
+**Aktajibon** হল একটি প্রোজেক্ট যা Blogger API, Google Search Console API এবং Gmail API ব্যবহার করে আপনার ব্লগ সাইটের অটোমেশন, ইন্ডেক্সিং এবং ইমেইল লিস্ট ব্যবস্থাপনা করে।
+
+## ফিচার:
+- ব্লগার API ইন্টিগ্রেশন
+- গুগল সার্চ কনসোল API ইন্টিগ্রেশন
+- ইমেইল অটোমেশন
+- সাইটের দ্রুত ইন্ডেক্সিং
+
+## ব্লগ সাইট:
+আমাদের ব্লগ সাইট দেখুন: [Aktajibon Blog](https://aktajibon.blogspot.com/)
+
+## সেটআপ গাইড:
+1. প্রথমে `config.json` ফাইলটি আপনার API কীগুলোর সাথে কনফিগার করুন।
+2. `secrets.json` ফাইলটিতে আপনার গুগল অ্যাকাউন্টের তথ্য যুক্ত করুন।
+3. স্ক্রিপ্টগুলো চালিয়ে ব্লগ সাইটের অটোমেশন শুরু করুন।
